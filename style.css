@@ -1,0 +1,31 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+#headofpage{
+    background-color: lightskyblue;
+    height: 50px;
+    display: flex;
+    font-size: 25px;
+    text-align: center;
+}
+
+#headofpage a {
+    color: rgb(0, 132, 255);
+    display: inline-block;
+    position: relative;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+#headofpage a:hover {
+    background-color:lightyellow;
+    color: darkcyan;
+}
+
+#body #avatar {
+    padding-left: 5%;
+    padding-top: 20px;
+}
+
